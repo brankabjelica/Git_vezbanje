@@ -1,0 +1,1 @@
+#Napisi definiciju koja ce da prikaze koji su brojevi prve desetice
