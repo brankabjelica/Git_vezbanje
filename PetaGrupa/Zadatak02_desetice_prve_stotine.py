@@ -1,0 +1,1 @@
+# Napisi definiciju koja ce da prikaze desetice prve stotine

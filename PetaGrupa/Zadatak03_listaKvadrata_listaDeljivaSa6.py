@@ -1,0 +1,1 @@
+#Napravi program za unos brojeva u listu, a zatim od zadate liste napravi listu kvadrata tih brojeva, i listu brojeva koji su deljivi sa 6
